@@ -2,7 +2,7 @@
 This patch adds a new theme to Ultimaker Cura 5.X
 
 ![image](https://github.com/x40-Community/Ultimaker-Cura-Aqua-Theme/blob/main/Cura_Aqua_Theme_50.jpg)
-Image: Aqua Theme
+Image with the blue/orange Aqua Theme
 
 ## Install
 The installation is very easy. Pack the zip archive and copy the Aqua directory to Cura's themes directory. If there is no themes directory in the resources directory, create one and then copy the aqua directory into it.
